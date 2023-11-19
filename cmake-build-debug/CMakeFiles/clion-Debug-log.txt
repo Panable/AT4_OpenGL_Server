@@ -1,4 +1,4 @@
-/home/thepanable/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/thepanable/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server -B /home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server/cmake-build-debug
+/home/thepanable/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server -B /home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server/cmake-build-debug
 -- The C compiler identification is GNU 13.2.1
 -- The CXX compiler identification is GNU 13.2.1
 -- Detecting C compiler ABI info

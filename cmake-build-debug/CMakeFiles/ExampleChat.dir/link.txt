@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ExampleChat.dir/example_chat.cpp.o -o ExampleChat   -L/home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server  -Wl,-rpath,/home/thepanable/Documents/Chelton/CPP/AT4_OpenGL_Server -lGameNetworkingSockets 
